@@ -1,0 +1,17 @@
+
+
+- GITHUB IS YOUR RESUME SO MAINTAIN IT WELL
+- OPEN SOURCE CONTRIBUTION SHOULD NECESSARY NOWADAYS
+
+- GITHUB is a hosting platform that host repos or we can say simply a folder..
+
+- Private Repo : we use it when we are working inside an organization or we can in a closed source enviroment.
+- Public Repo : it is use for open source projects so everyone can see your porject and send a pull request on your repo.
+- License : It is used when we license our project or research so no one can use our project because we are a main owner & we have copyright licensed for our project.
+- Git Ignore : It is used for skipping the files which we won't to upload.
+
+- File Uploading On Github
+	-- There are 3 methods
+		1) Long Method
+		2) Short Method
+		3) Drag & Drop Method
